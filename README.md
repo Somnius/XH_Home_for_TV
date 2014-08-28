@@ -1,4 +1,4 @@
-XH_Home_for_TV
+XH_Home_for_TV Greek Localization
 ==============
 
 XH_Home_for_TV is the latest + with Greek source from apk for Xiaomi TV box latest gen.
