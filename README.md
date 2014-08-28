@@ -12,3 +12,7 @@ You can swap the values-el with values-en to get Greek as main language at least
 
 This is an addition to the Hellenic/Greek project for Xiaomi-Miui, the main branch can be found here
 https://github.com/Xiaomi-Miui-Hellas/MIUI-XML-5.0-Greek
+
+
+Made for the Official Greek Xiaomi-miui Fan Club
+https://xiaomi-miui.gr
