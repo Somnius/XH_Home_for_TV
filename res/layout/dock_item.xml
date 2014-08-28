@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.uprui.tv.launcher8.dockbar.DockApp android:layout_width="@dimen/dockBar_appItem_width" android:layout_height="@dimen/dockBar_appItem_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/dockViewParent" android:layout_width="@dimen/dockBar_appItem_width" android:layout_height="@dimen/dockBar_appItem_height">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/dockView" android:padding="@dimen/dockBar_appIcon_padding" android:layout_width="@dimen/dockBar_appIcon_width" android:layout_height="@dimen/dockBar_appIcon_height" android:scaleType="fitXY" />
+        <TextView android:layout_gravity="center_horizontal" android:id="@id/dockTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="1.0dip" style="@style/dockAppTitle" />
+    </LinearLayout>
+</com.uprui.tv.launcher8.dockbar.DockApp>

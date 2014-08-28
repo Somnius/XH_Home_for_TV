@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.uprui.tv.launcher8.DialogPopView android:orientation="vertical" android:background="@drawable/dailogbg" android:padding="5.0dip" android:layout_width="@dimen/popViewWidth" android:layout_height="@dimen/popViewHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.uprui.tv.launcher8.DialogPopItemView android:textSize="24.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/dialogTitle" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/manage_app_title" />
+    <LinearLayout android:orientation="vertical" android:id="@id/dialogOpenLinear" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:background="#70ffffff" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <com.uprui.tv.launcher8.DialogPopItemView android:textSize="20.0sp" android:textColor="#ffffffff" android:gravity="left|center" android:id="@id/dialogOpen" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/manage_app_open" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/dialogDeleteLinear" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:background="#70ffffff" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <com.uprui.tv.launcher8.DialogPopItemView android:textSize="20.0sp" android:textColor="#ffffffff" android:gravity="left|center" android:id="@id/dialogDelete" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/manage_app_uninstall" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/dialogInfoLinear" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:background="#70ffffff" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <com.uprui.tv.launcher8.DialogPopItemView android:textSize="20.0sp" android:textColor="#ffffffff" android:gravity="left|center" android:id="@id/dialogInfo" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/manage_app_details" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/dialogdeleteSciLinear" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:background="#70ffffff" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <com.uprui.tv.launcher8.DialogPopItemView android:textSize="20.0sp" android:textColor="#ffffffff" android:gravity="left|center" android:id="@id/dialogdeleteSci" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/manage_app_deleteSci" />
+    </LinearLayout>
+</com.uprui.tv.launcher8.DialogPopView>

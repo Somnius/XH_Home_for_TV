@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_icon_size">60.0dip</dimen>
+    <dimen name="dockBar_bg_height">140.0dip</dimen>
+    <dimen name="dockBar_padding_left">100.0dip</dimen>
+    <dimen name="dockBar_padding_right">100.0dip</dimen>
+    <dimen name="dockBar_padding_bottom">14.0dip</dimen>
+    <dimen name="dockBar_max_width">150.0dip</dimen>
+    <dimen name="dockBar_max_height">150.0dip</dimen>
+    <dimen name="dockBar_appItem_width">135.0dip</dimen>
+    <dimen name="dockBar_appItem_height">165.0dip</dimen>
+    <dimen name="dockBar_appIcon_width">128.0dip</dimen>
+    <dimen name="dockBar_appIcon_height">128.0dip</dimen>
+    <dimen name="dockBar_appIcon_padding">11.0dip</dimen>
+    <dimen name="dockBarbg_padding_bottom">10.0dip</dimen>
+    <dimen name="dockBar_fourceImage_width">124.0dip</dimen>
+    <dimen name="dockBar_fourceImage_height">124.0dip</dimen>
+    <dimen name="dockImage_paddingTop">5.0dip</dimen>
+    <dimen name="dockTitleSize">24.0sp</dimen>
+    <dimen name="page_space">40.0dip</dimen>
+    <dimen name="cell_image_padding_left">8.0dip</dimen>
+    <dimen name="cell_image_padding_right">8.0dip</dimen>
+    <dimen name="cell_image_padding_top">5.0dip</dimen>
+    <dimen name="cell_image_padding_bottom">5.0dip</dimen>
+    <dimen name="pointerWidth">6.0dip</dimen>
+    <dimen name="popViewWidth">500.0dip</dimen>
+    <dimen name="popViewHeight">500.0dip</dimen>
+</resources>

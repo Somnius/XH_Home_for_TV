@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/top" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/image_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" android:layout_centerHorizontal="true" />
+        <TextView android:id="@id/textview_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/image_indicator" android:layout_centerHorizontal="true" style="@style/dockAppTitle" />
+    </RelativeLayout>
+    <com.uprui.tv.launcher8.workspace.TvWorkSpace android:id="@id/specified_tvWorkspace" android:background="#8f000000" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/top" launcher:pageSpace="@dimen/page_space" launcher:pageGravity="center"
+      xmlns:launcher="http://schemas.android.com/apk/res/com.uprui.tv.launcher8" />
+</RelativeLayout>

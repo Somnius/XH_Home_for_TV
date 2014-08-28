@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="workspace_cell_height">90.0dip</dimen>
+    <dimen name="screen_indicatorPaddingTop">8.0dip</dimen>
+    <dimen name="appview_width">75.0dip</dimen>
+    <dimen name="appview_height">85.0dip</dimen>
+    <dimen name="layout_marginRight">0.0dip</dimen>
+    <dimen name="layout_marginTop">0.0dip</dimen>
+    <dimen name="xxitemDelete_layoutMarginLeft">6.0dip</dimen>
+    <dimen name="dock_item_margin">0.0dip</dimen>
+    <dimen name="dock_itemHoler_paddingBottom">2.0dip</dimen>
+    <dimen name="screen_longAxisStartPadding">25.0dip</dimen>
+</resources>

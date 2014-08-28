@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@*android:style/Theme.Light" />
+    <style name="AppTheme" parent="@*android:style/Theme.Light" />
+    <style name="DialogWindowTitle">
+        <item name="android:textAppearance">@*android:style/TextAppearance.DialogWindowTitle</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+    <style name="My_Theme_Dialog_Alert" parent="@*android:style/Theme">
+        <item name="android:windowBackground">@drawable/rui_dialog_background</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/DialogWindowTitle</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style>
+    <style name="dockAppTitle">
+        <item name="android:textSize">@dimen/dockTitleSize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+    </style>
+</resources>

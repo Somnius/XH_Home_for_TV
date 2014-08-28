@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.uprui.tv.launcher8.allapp.icon.AppIcon android:gravity="center" android:orientation="vertical" android:id="@id/app_item_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.uprui.tv.launcher8.allapp.icon.AppImageView android:id="@id/app_icon" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/top_right_icon" android:focusable="false" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+    <TextView android:id="@id/app_title" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/dockAppTitle" />
+</com.uprui.tv.launcher8.allapp.icon.AppIcon>

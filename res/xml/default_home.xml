@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<home
+  xmlns:launcher="http://schemas.android.com/apk/res/com.uprui.tv.launcher8">
+    <item launcher:cellX="0" launcher:cellY="0" launcher:spanX="2" launcher:spanY="1" launcher:categoryCode="10109" />
+    <item launcher:cellX="2" launcher:cellY="0" launcher:spanX="1" launcher:spanY="1" launcher:categoryCode="10108" />
+    <item launcher:cellX="3" launcher:cellY="0" launcher:spanX="1" launcher:spanY="2" launcher:categoryCode="10107" />
+    <item launcher:cellX="0" launcher:cellY="1" launcher:spanX="1" launcher:spanY="1" launcher:categoryCode="10106" />
+    <item launcher:cellX="1" launcher:cellY="1" launcher:spanX="1" launcher:spanY="1" launcher:categoryCode="10105" />
+    <item launcher:cellX="2" launcher:cellY="1" launcher:spanX="1" launcher:spanY="1" launcher:categoryCode="10104" />
+    <item launcher:cellX="0" launcher:cellY="2" launcher:spanX="3" launcher:spanY="1" launcher:categoryCode="10103" />
+    <item launcher:cellX="3" launcher:cellY="2" launcher:spanX="1" launcher:spanY="1" launcher:categoryCode="10102" />
+</home>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.uprui.tv.launcher8.pageview.TvPageView android:id="@id/win8Home_pageView" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" launcher:pageSpace="@dimen/page_space" launcher:pageGravity="center"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:launcher="http://schemas.android.com/apk/res/com.uprui.tv.launcher8" />

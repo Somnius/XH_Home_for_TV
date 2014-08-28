@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="all_apps_bg">#80000000</color>
+    <color name="indicator_color">#ff245e83</color>
+    <color name="indicator_color_focused">#ff00a0ea</color>
+</resources>

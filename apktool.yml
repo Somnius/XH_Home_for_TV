@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: XH_Home_for_TV.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '17'
+packageInfo:
+  cur_package: com.uprui.tv.launcher8
+  orig_package: com.uprui.tv.launcher8
+compressionType: false

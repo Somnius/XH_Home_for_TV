@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="loadding_color" format="color" />
+    <attr name="loadding_second_color" format="color" />
+    <attr name="recAppTitle" format="string" />
+    <attr name="recPackageName" format="string" />
+    <attr name="recClassName" format="string" />
+    <attr name="recCategory" format="integer" />
+    <attr name="recType" format="integer" />
+    <attr name="recVersion" format="string" />
+    <attr name="downUrl" format="string" />
+    <attr name="downUrlOption" format="string" />
+    <attr name="recIcon" format="reference" />
+    <attr name="type" format="integer" />
+    <attr name="version" format="integer" />
+    <attr name="language" format="string" />
+    <attr name="country" format="string" />
+    <attr name="cellWidth" format="dimension" />
+    <attr name="cellHeight" format="dimension" />
+    <attr name="longAxisStartPadding" format="dimension" />
+    <attr name="longAxisEndPadding" format="dimension" />
+    <attr name="shortAxisStartPadding" format="dimension" />
+    <attr name="shortAxisEndPadding" format="dimension" />
+    <attr name="shortAxisCells" format="integer" />
+    <attr name="longAxisCells" format="integer" />
+    <attr name="isPortrait" format="boolean" />
+    <attr name="cellRows" format="integer" />
+    <attr name="cellCols" format="integer" />
+    <attr name="cellHSpace" format="dimension" />
+    <attr name="cellVSpace" format="dimension" />
+    <attr name="cellX" format="integer" />
+    <attr name="cellY" format="integer" />
+    <attr name="spanX" format="integer" />
+    <attr name="spanY" format="integer" />
+    <attr name="columns" format="integer" />
+    <attr name="rows" format="integer" />
+    <attr name="title" format="string" />
+    <attr name="packageName" format="string" />
+    <attr name="className" format="string" />
+    <attr name="categoryCode" format="integer" />
+    <attr name="iconType" format="integer" />
+    <attr name="iconResId" format="string" />
+    <attr name="iconDownloadUrl" format="string" />
+    <attr name="apkDownloadUrl" format="string" />
+    <attr name="description" format="string" />
+    <attr name="webUrl" format="string" />
+    <attr name="pageWidth" format="dimension" />
+    <attr name="pageHeight" format="dimension" />
+    <attr name="pageSpace" format="dimension" />
+    <attr name="pageGravity">
+        <enum name="center" value="0" />
+        <enum name="space" value="1" />
+    </attr>
+</resources>

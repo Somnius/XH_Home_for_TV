@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites
+  xmlns:launcher="http://schemas.android.com/apk/res/com.uprui.tv.launcher8">
+    <favorite launcher:title="Digiturk Play|Digiturk Play" launcher:packageName="com.digiturkplay.mobil" launcher:className="com.digiturkplay.mobil.MainActivity" launcher:categoryCode="10408" launcher:iconType="0" launcher:iconResId="com_digiturkplay_mobil" launcher:apkDownloadUrl="http://bcs.duapp.com/recapks-tv/com.digiturkplay.mobil.apk" launcher:description="Digiturk Play|Digiturk Play" />
+    <favorite launcher:title="Youtube TV|Youtube TV" launcher:packageName="com.netplayed.app.peliculas" launcher:className="com.netplayed.app.peliculas.peliculasInit" launcher:categoryCode="10401" launcher:iconType="0" launcher:iconResId="com_netplayed_app_peliculas" launcher:apkDownloadUrl="http://bcs.duapp.com/recapks-tv/com.netplayed.app.peliculas.apk" launcher:description="Youtube TV|Youtube TV" />
+    <favorite launcher:title="HD Film Izle|HD Film Izle" launcher:packageName="com.tasomaniac.hdfilmizle" launcher:className="com.tasomaniac.hdfilmizle.TutListActivity" launcher:categoryCode="10401" launcher:iconType="0" launcher:iconResId="com_tasomaniac_hdfilmizle" launcher:apkDownloadUrl="http://bcs.duapp.com/recapks-tv/com.tasomaniac.hdfilmizle.apk" launcher:description="HD Film Izle|HD Film Izle" />
+    <favorite launcher:title="IP-TV|IP-TV" launcher:packageName="ua.com.apec.qsmart.iptv" launcher:className="ua.com.apec.qsmart.iptv.MainActivity" launcher:categoryCode="10408" launcher:iconType="0" launcher:iconResId="ua_com_apec_qsmart_iptv" launcher:apkDownloadUrl="http://bcs.duapp.com/recapks-tv/ua.com.apec.qsmart.iptv.apk" launcher:description="IP-TV|IP-TV" />
+</favorites>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.uprui.tv.launcher8.workspace.WorkSpaceFrameLayout android:background="@drawable/all_app_bg" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment android:id="@id/home" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.uprui.tv.launcher8.workspace.Win8HomeFragment" />
+    <fragment android:id="@id/specified_category" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.uprui.tv.launcher8.workspace.SpecifiedCatecoryItem" />
+</com.uprui.tv.launcher8.workspace.WorkSpaceFrameLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.uprui.tv.launcher8.pageview.TvCellChild android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.uprui.tv.launcher8.pageview.TvChildImageView android:id="@id/cell_image" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <TextView android:gravity="center" android:id="@id/cell_textview" android:background="#8f000000" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="@dimen/cell_image_padding_left" android:layout_marginRight="@dimen/cell_image_padding_right" android:layout_marginBottom="@dimen/cell_image_padding_bottom" android:layout_alignParentBottom="true" style="@style/dockAppTitle" />
+</com.uprui.tv.launcher8.pageview.TvCellChild>

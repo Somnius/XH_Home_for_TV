@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/menu_wandoujia" android:orderInCategory="100" android:title="@string/menu_wandoujia" android:showAsAction="never" />
+    <item android:id="@id/menu_91" android:orderInCategory="100" android:title="@string/menu_91" android:showAsAction="never" />
+    <item android:id="@id/menu_baidu" android:orderInCategory="100" android:title="@string/menu_baidu" android:showAsAction="never" />
+</menu>

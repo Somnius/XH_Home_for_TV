@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.uprui.tv.launcher8.clock.ClockWidget android:background="#ff245e83" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:id="@id/moliClockParent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+        <com.uprui.tv.launcher8.clock.MoliClock android:layout_gravity="center" android:id="@id/yuandao_moliClock" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:gravity="left" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_toRightOf="@id/moliClockParent" android:layout_centerVertical="true">
+        <TextView android:textSize="24.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/yuandao_time" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="09:00 AM" />
+        <TextView android:textSize="20.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/yuandao_weekDay" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="星期六" />
+        <TextView android:textSize="20.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/yuandao_Data" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="2013-10-11" />
+    </LinearLayout>
+</com.uprui.tv.launcher8.clock.ClockWidget>

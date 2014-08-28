@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.uprui.tv.launcher8.allapp.indicator.AllappIndicatorItem android:layout_gravity="center" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/all_app_indicator_item" android:padding="2.0dip" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:id="@id/indicator_icon" android:background="#ff245e83" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" />
+        <TextView android:layout_gravity="center_horizontal" android:id="@id/indicator_title" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" style="@style/dockAppTitle" />
+    </LinearLayout>
+</com.uprui.tv.launcher8.allapp.indicator.AllappIndicatorItem>

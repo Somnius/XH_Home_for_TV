@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_app_indicator_title">
+        <item>游戏</item>
+        <item>社交</item>
+        <item>影音</item>
+        <item>生活</item>
+        <item>工具</item>
+        <item>其它</item>
+    </string-array>
+</resources>
